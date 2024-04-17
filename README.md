@@ -1,1 +1,1 @@
-# linguagem-c-fun-oes
+# linguagem-c-função
